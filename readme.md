@@ -146,7 +146,7 @@ I also incorporated what I learnt from my [pi-mail](https://github.com/jacques-a
 ### [Video Link](https://youtu.be/h1HrscRf4Ik)
 <img src="pics/videothumb.png"></img>
 
-In the video you can see the setup of the water tank and raspberry pi in a container with the needed components. More pics can be found in the [pics]() folder
+In the video you can see the setup of the water tank and raspberry pi in a container with the needed components. More pics can be found in the [pics](https://github.com/jacques-andre/pi-plant/tree/master/pics) folder
 
 ## Conclusion
 
