@@ -18,7 +18,7 @@ My sister is into gardening and planting and I wanted to make something that cou
 - [5V Relay](https://www.amazon.com/Tolako-Arduino-Indicator-Channel-Official/dp/B00VRUAHLE/ref=sr_1_7?dchild=1&keywords=5v+relay&qid=1591538799&sr=8-7)
 - [12V Power Supply](https://www.amazon.com/ANVISION-2-Pack-Adapter-5-5x2-1mm-Efficiency/dp/B01DHJLHC0/ref=sr_1_11?dchild=1&keywords=anvision+12v&qid=1591538841&sr=8-11)
 - [Water Tank](https://www.amazon.com/dp/B005P0NPKM/ref=sr_1_5?dchild=1&keywords=new+wave+enviro&qid=1591538878&sr=8-5)
-- [Dupont Cable](https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_3?dchild=1&keywords=dupont+cables&qid=1591538923&sr=8-3)
+- [Dupont Cables](https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_3?dchild=1&keywords=dupont+cables&qid=1591538923&sr=8-3)
 - [Pi 3B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 
 ## Intial Testing:
