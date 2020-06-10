@@ -148,6 +148,11 @@ I also incorporated what I learnt from my [pi-mail](https://github.com/jacques-a
 
 In the video you can see the setup of the water tank and raspberry pi in a container with the needed components. More pics can be found in the [pics](https://github.com/jacques-andre/pi-plant/tree/master/pics) folder
 
+I also setup the linux `crontab` allowing me to schedule this python command everyday at 7PM
+ ```
+ 00 19 * * * python /home/pi/plant-pi/main.py &
+ ```
+
 ## Conclusion
 
 This project was a lot more fun than my other one as it was cool to see a water pump be powered on when I told it to.
