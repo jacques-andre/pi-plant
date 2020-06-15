@@ -5,7 +5,7 @@
 # Pi Plant
 - A python written plant irrigation system.
 - Uses both a 5V pump and a moisture sensor.
-
+- Incorporates [pushover](https://www.pushover.net) notifications.
 
 ## Intro:
 
