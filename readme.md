@@ -9,7 +9,7 @@
 
 ## Intro:
 
-My sister is into gardening and planting and I wanted to make something that could automatically water the plants if needed. I also wanted to combine what I learnt in my previous project [pi-mail](https://github.com/jacques-andre/pi-mail) to incorporate a notification system when the plants have been watered _or not_.
+My sister is into gardening and planting and I wanted to make something that could automatically water the plants if needed. I also wanted to combine what I learnt in my previous project to incorporate a notification system when the plants have been watered _or not_.
 
 ## Materials:
 
