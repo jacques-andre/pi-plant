@@ -76,8 +76,6 @@ GPIO.cleanup()
 
 This code allowed me to pump the water out for 5s and then power down my pump.
 
-**It took me some time to realize that for some reason `GPIO.HIGH` meant the pump is off. Usually HIGH means on but in my case it was the opposite.**
-
 ## The main app:
 
 After I figured out how to power the pump and get a reading for the soil sensor it wasn't too hard to get them to work in tangent.
